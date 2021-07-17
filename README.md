@@ -1,4 +1,4 @@
-# Documentos:  _Diplomado la 4ta Revolución Industrial desde el IOT_
+# Actiivdad Final: _Diplomado la 4ta Revolución Industrial desde el IOT_
 
 Ejercicio propuesto para el trabajo por medio de github en el diplomado
 
